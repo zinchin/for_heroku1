@@ -23,5 +23,4 @@ public class Test1 {
 		String s5 = " eXId  ";
 		System.out.println(s5.trim().toLowerCase().equals("exit"));
 	}
-
 }
